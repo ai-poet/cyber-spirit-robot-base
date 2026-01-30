@@ -59,8 +59,7 @@ cyber-spirit-robot-base/
 ├── pcb工程文件.epro              # PCB 工程文件 (立创 EDA 格式)
 ├── 电池电路原理图.pdf             # 电池管理电路原理图
 ├── 舵机驱动电路原理图.pdf          # 舵机驱动电路原理图
-├── 1-9.jpeg                      # 结构展示图片
-└── promo-video/                  # 推广视频项目 (Remotion)
+└── 1-9.jpeg                      # 结构展示图片
 ```
 
 ## 🔧 硬件规格
